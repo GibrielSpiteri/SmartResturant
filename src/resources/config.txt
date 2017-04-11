@@ -1,0 +1,16 @@
+Name: Chicken Parmesan
+Description: Oh how we love chicken parmesan chicken cutlets, breaded and fried, smothered with tomato sauce, covered with Mozzarella and Parmesan cheeses, and baked until the cheese is bubbly and melts into every nook and cranny.
+Picture: /resources/pictures/chickenparm.jpg
+Price: 10.00
+Name: Beef Wellington
+Description: A traditional British dish consisting of a seared filet mignon smothered in a whole-grain mustard and wrapped in layers of salty prosciutto, an herbed crepe, duxelles (mushrooms that have been pulverized into a paste), and puff pastry. The whole package is then baked until the crust crisps up and the meat reaches medium-rare perfection.
+Picture: /resources/pictures/beefwellington.jpg
+Price: 20.00
+Name: Filet Mignon
+Description: Considered the king of steaks because of its tender, melt in the mouth texture. A prime filet mignon can literally be cut with a fork.
+Picture: /resources/pictures/filetmignon.jpg
+Price: 15.00
+Name: Duck
+Description: Tender dark duck breast cooked in a pressure cooker to perserve flavour and served with a mushroom reduction.
+Picture: /resources/pictures/duck.jpg
+Price: 13.00
